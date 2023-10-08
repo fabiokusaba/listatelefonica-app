@@ -1,4 +1,4 @@
-Lista Telefônica Android
+Lista Telefônica Android                                                                    
 Bem-vindo à Lista Telefônica, uma aplicação simples e intuitiva desenvolvida com Android Studio e Kotlin. Esta aplicação permite que você gerencie seus contatos de forma fácil e eficiente, oferecendo diversas funcionalidades úteis.
 
 Funcionalidades
